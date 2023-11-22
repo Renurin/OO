@@ -21,7 +21,7 @@ public class produtovet {
             vetor2[i] = Integer.parseInt(valorS);
         }
 
-        // Somar elementos
+        // Multiplicar elementos
         for (int i = 0; i < vetor2.length; i++) {
             produto[i] = vetor1[i] * vetor2[i];
         }
